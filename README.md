@@ -1,5 +1,5 @@
-# docker-mqtts
-mqtt using ssl/tls on docker.
+# docker-mqtts-broker
+mqtt broker using ssl/tls on docker.
 This container generates some client cert files in ca_client direcroty.
 
 ## How to Use
